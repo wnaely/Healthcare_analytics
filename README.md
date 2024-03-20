@@ -27,23 +27,8 @@ welfare = welfare_d[['h14_g3', 'h14_g4', 'h14_med2', 'h14_med3', 'h14_med4', 'h1
 welfare.head()
 ```
 
-
-
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -130,22 +115,7 @@ welfare.head()
 ```
 
 
-
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -243,19 +213,6 @@ welfare.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -341,19 +298,6 @@ hosp_res_day
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -538,19 +482,6 @@ age_cond.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -641,19 +572,6 @@ age_cond.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -746,4 +664,4 @@ px.bar(data_frame=age_cond, x='age_group', y='proportion', color='cond')
 <b> 10대부터 30대까지 건강한 사람의 비율이 비슷한 점이 신기했습니다.
 
 ### 이번 과제를 마치며
-### 이번 과제를 통해 주제를 정하고 데이터 분석을 해봤을 때 예상을 벗어나는 결과가 나오는것이 신기했고 다음에는 더 많은 자료를 가지고 더 정확한 분석 결과를 내보고 싶다는 생각을 했습니다. 또한 어떠한 이유에서라도 병원에 입원하는 일이 없도록 건강하게 살자고 다짐했습니다.
+### 이번 과제를 통해 주제를 정하고 데이터 분석을 해봤을 때 예상을 벗어나는 결과가 나오는것이 신기했고 다음에는 더 많은 자료를 가지고 더 정확한 분석 결과를 내보고 싶다는 생각을 했습니다. 
